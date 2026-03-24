@@ -1,2 +1,2 @@
 # Historias_Corporativas
-Histórias que acontecem nas corporativas.
+Histórias que acontecem nas Corporações 
