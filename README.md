@@ -1,2 +1,2 @@
 # Historias_Corporativas
-t
+Histórias que acontecem nas corporativas.
