@@ -1,15 +1,19 @@
 body{
     background-color:bisque;
-    line-height: 1.5;
+    line-height: 2.5;
     font-family: sans-serif;
     text-align:justify;
     margin: 2em;
     padding: 2em;
     color:brown;
-    border: solid 2px;
+    border: solid 1px;
+}
+h1{
+    text-align: center;
+    font-size: ;
 }
 
 h2{
-    text-align:center;
+    text-align: center;
     color:brown;
 }
