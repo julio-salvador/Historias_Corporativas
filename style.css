@@ -28,8 +28,8 @@ button{
 }
 
 button a{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:aliceblue
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue;
     text-decoration: none;
 }
 
